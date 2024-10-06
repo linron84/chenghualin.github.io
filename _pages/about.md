@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CL is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "CL is a ready-to-fork GitHub Pages template for academic personal websites - 2024"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
